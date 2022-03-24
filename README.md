@@ -22,4 +22,8 @@
 - So when do we indexing, it scan the documents which are relevent to give desired output.
 
 ***Ans3:~***
-
+##### Pros Of indexes are:~ 
+1. Indexes minimizes the read operation in the database.
+2. Indexes reduces the total number of document scanned.
+3.  it scan the documents which are relevent to give desired output.
+4.  Time taken by the query to be execute decreased.

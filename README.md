@@ -26,4 +26,7 @@
 1. Indexes minimizes the read operation in the database.
 2. Indexes reduces the total number of document scanned.
 3.  it scan the documents which are relevent to give desired output.
-4.  Time taken by the query to be execute decreased.
+4.  Time taken by the query to execute will be decreased.
+##### Cons of the indexes are:~
+1. Indexing basically uses internaly B-Tree Data Structure
+2. Insertion, deletion and updation becomes very costly in B-Tree Data Structures

@@ -29,4 +29,10 @@
 4.  Time taken by the query to execute will be decreased.
 ##### Cons of the indexes are:~
 1. Indexing basically uses internaly B-Tree Data Structure
-2. Insertion, deletion and updation becomes very costly in B-Tree Data Structures
+2. Insertion, deletion and updation becomes very costly in B-Tree Data Structures because we can delete a key from any node-not just a leaf—and when we delete a key from an internal node, we will have to rearrange the node’s children. 
+
+***Ans4:~***
+1. index uses B-Tree data Sturcture internally. 
+
+
+***Ans5:~***

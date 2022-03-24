@@ -18,4 +18,8 @@
 > ***It is similar to the idexing of a book***
 
 ***Ans2:~***
+- We do indexing to minimize the read opeations.
+- So when do we indexing, it scan the documents which are relevent to give desired output.
+
+***Ans3:~***
 

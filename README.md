@@ -37,3 +37,4 @@
 
 ***Ans5:~***
 - If we create a index with multiple field or more than one field, it is called compound indexing.
+> MongoDb supports 32 fields to be compound index.
